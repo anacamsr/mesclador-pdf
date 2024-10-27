@@ -1,1 +1,1 @@
-![Screenshot do Programa](exemplo1.gif)
+![Screenshot do Programa](exemplo.gif)
